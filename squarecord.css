@@ -1,0 +1,39 @@
+/*
+  user avatars
+*/
+
+/* Chat */
+.avatar-xsmall, .avatar-small, .avatar-large, .avatar-xlarge, .avatar-xxlarge, .avatar-xxxlarge, .avatar-profile, .avatar-popout {
+    border-radius: 12% !important;
+}
+
+/* Voice Chat */
+.avatarDefault-3jtQoc {
+  border-radius: 12% !important;
+}
+
+/* Server Settings */
+.avatar-1BXaQj {
+  border-radius: 12% !important;
+}
+
+/* View Profile Overlay */
+.avatar-hint {
+    border-radius: 11% !important;
+}
+
+
+
+/*
+  guild icons
+*/
+
+/* sidebar */
+.guild-inner {
+  border-radius: 12% !important;
+}
+
+/* server settings */
+.avatar-uploader-inner {
+  border-radius: 12% !important;
+}
