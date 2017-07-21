@@ -1,2 +1,2 @@
 # squarecord
-CSS to make all guild/user icons square in Discord.
+Custom Discord CSS to get rid of ugly circles and replace them with squares that have rounded corners.
